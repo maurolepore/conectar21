@@ -10,10 +10,31 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 
-slides <- function() rmarkdown::render("slides.Rmd", "ioslides_presentation")
+slides <- function() {
+  url <- rmarkdown::render("slides.Rmd", "ioslides_presentation")
+  browseURL(url)
+  invisible(url)
+}
 ```
 
 # Intro
+
+## Cual es tu rol en la comunidad de R? {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/MCPSbHW.png width=775>
+
+***
+
+<img src=http://i.imgur.com/MCPSbHW.png width=775>
+
+[chirunconf 2019](https://maurolepore.github.io/confs/articles/2019_chirunconf_experience.html)
+
+## Contenido
+
+* Cadena de favores
+* Tribus
+* Organizations internacionales
+* Latino America
 
 # Tribu
 
@@ -22,3 +43,9 @@ slides <- function() rmarkdown::render("slides.Rmd", "ioslides_presentation")
 # Latino America
 
 # Conclusiones
+
+# Gracias
+
+# FIXME
+
+<img src=FIXME width=700>
