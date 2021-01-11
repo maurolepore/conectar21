@@ -1,0 +1,24 @@
+---
+title: Cadena de favores
+author: Mauro Lepore
+output: github_document
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+
+slides <- function() rmarkdown::render("slides.Rmd", "ioslides_presentation")
+```
+
+# Intro
+
+# Tribu
+
+# Organizaciones internacionales
+
+# Latino America
+
+# Conclusiones
