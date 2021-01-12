@@ -99,15 +99,16 @@ slides <- function() {
 
 ## Poder y riesgo | Por qué hacemos gratis lo que no hariamos por dinero?  {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/lAztL91.png width=900>
+<img src=http://i.imgur.com/nxbBtd6.png width=900>
 
-# Repaso
+## Mensajes sobre la comunidad de R
+### Tu rol puede ser invisible a tus ojos.
+### Podes encontralas tanto fuera como dentro del trabajo.
+### Son poderosas.
+### Su poder requiere responsabilidad.
+### Conectar a los miembros es clave.
 
-## Grupo de personas conectadas a un líder, conectadas a una idea, y conectadas entre sí. {.flexbox .vcenter}
-
-<img src=http://i.imgur.com/j1D8Qkp.png width=900>
-
-## La palabra clave | Gracias! {.flexbox .vcenter}
+## Gracias! {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/g3Wf7Oi.png width=900>
 
