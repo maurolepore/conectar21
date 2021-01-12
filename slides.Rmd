@@ -44,64 +44,70 @@ slides <- function() {
 
 <img src=tribus.jpg width=900>
 
+## Tribu ~ Comunidad de R {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/j1D8Qkp.png width=900>
+
 ## La palabra clave {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/H8Fazrx.png width=900>
 
-## Comunidad de R ~ Tribu {.flexbox .vcenter}
+## Por qué aprender sobre comunidades? {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/j1D8Qkp.png width=900>
-
-# Por qué aprender sobre tribus? {.flexbox .vcenter}
-
+<img src=question.jpg width=900>
 
 ## Chicago R Unconference y la mujer maravilla | Marzo 2019 {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/hDj5rSI.png width=900>
 
-## Sabes cuál es tu rol en tu tribu de R? {.flexbox .vcenter}
+## Sabes cuál es tu rol en tu comunidad de R? {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/2KkSy71.png width=900>
 
-## Sabes cuál es tu rol en tu tribu de R? {.flexbox .vcenter}
+## Sabes cuál es tu rol en tu comunidad de R? {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/ZzNc1f1.png width=900>
 
-## Sabes cuál es tu rol en tu tribu de R? {.flexbox .vcenter}
+## Sabes cuál es tu rol en tu comunidad de R? {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/WtZ97pr.png width=900>
 
-## Lo que se viene ...
+## Por qué aprender sobre comunidades?
 
-1. Las tribus son útiles y divertidas, y están por todos lados.
-2. Por qué las tribus pueden lograr cambios milagrosos.
+* Tu rol puede ser invisible a tus ojos.
+* Están por todos lados, son útiles y divertidas.
+* Pueden lograr cambios milagrosos.
 
-# Las tribus son útiles y divertidas, y están por todos lados.
+<img src=http://i.imgur.com/ZNWxD0D.png width=900>
 
-## Tribus fuera del trabajo {.flexbox .vcenter}
+## Comunidades útiles y divertidas en el mundo {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/8iWsBnO.png width=900>
 
-## Tribus dentro del trabajo {.flexbox .vcenter}
+## Necesitamos que nos ~~manejes~~ lideres {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/iWKNz91.png width=900>
+<img src=http://i.imgur.com/0GfdbQY.png width=900>
 
-# Por qué las tribus pueden lograr cambios milagrosos.
+* Liderar NO sobre manejar eficientemente lo que no te importa.
+* Liderar SI es crear los cambios en los que crees.
 
-## TODO: Anecdotes from 2DII
+## Poder y riesgo | La matriz de manipulación  {.flexbox .vcenter}
 
-## TODO: Predictibly irrational > social norms vs market norms.
+<img src=http://i.imgur.com/p3mbOdD.png width=900>
 
-# Latino America
+## Poder y riesgo | Por qué hacemos gratis lo que no hariamos por dinero?  {.flexbox .vcenter}
 
-# FIXME - I hope you now ...
+<img src=http://i.imgur.com/lAztL91.png width=900>
 
-# Gracias
+## Necesitamos que nos lideres | Gracias! {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/j1D8Qkp.png width=900>
+
+Twitter: @mauro_lepore
 
 ##
 
-end.
-
+fin.
 
 ## References
 
@@ -109,3 +115,4 @@ end.
 * [Anela Li](https://maurolepore.github.io/confs/articles/2019_chirunconf_experience.html)
 * [Tribes](https://www.amazon.com/-/es/Seth-Godin/dp/1591842336/ref=sr_1_1?adgrpid=64894137577&dchild=1&gclid=CjwKCAiAi_D_BRApEiwASslbJyrdpcp8NAc7R6VpLTF4dwbk2FpNf3AerbTjsptSakKWq9wlaAp1XBoCAaYQAvD_BwE&hvadid=374819649836&hvdev=c&hvlocphy=9073467&hvnetw=g&hvqmt=e&hvrand=16694802638412131091&hvtargid=kwd-300465574309&hydadcr=26030_11242087&keywords=tribes+seth+godin&qid=1610411319&sr=8-1&tag=gspstddesk-20)
 * [Why you might want to rethink using the word 'tribe' for your business community](https://elitriercommunities.com/blog/reconsider-tribe-business-community)
+* [Predictibly irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248)
