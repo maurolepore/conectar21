@@ -75,7 +75,7 @@ slides <- function() {
 * Pueden lograr cambios milagrosos.
 * Su poder tiene riesgos.
 
-<img src=http://i.imgur.com/ZNWxD0D.png width=900>
+<img src=http://i.imgur.com/ZNWxD0D.png width=800>
 
 ## Comunidades útiles y divertidas en el mundo {.flexbox .vcenter}
 
@@ -106,7 +106,7 @@ slides <- function() {
 ### Podes encontralas tanto fuera como dentro del trabajo.
 ### Son poderosas.
 ### Su poder requiere responsabilidad.
-### Conectar a los miembros es clave.
+### Lo mas especial es la conexión entre miembros.
 
 ## Gracias! {.flexbox .vcenter}
 
