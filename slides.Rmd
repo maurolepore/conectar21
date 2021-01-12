@@ -109,9 +109,9 @@ slides <- function() {
 
 ## La palabra clave | Gracias! {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/H8Fazrx.png width=900>
+<img src=http://i.imgur.com/g3Wf7Oi.png width=900>
 
-Twitter: @mauro_lepore
+### **<https://twitter.com/mauro_lepore>**
 
 ##
 
