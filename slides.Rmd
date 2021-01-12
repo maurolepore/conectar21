@@ -28,21 +28,30 @@ slides <- function() {
 }
 ```
 
-## Cadena de favores | @mauro_lepore {.flexbox .vcenter}
+## Cadena de favores | Historias de éxito y gratitud {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/9Ut9gxc.png width=900>
+
+## Cadena de favores {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/KvD1lv6.png width=900>
 
-## Comunidad de R ~ Tribu {.flexbox .vcenter}
+## Comunidad de R {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/j1D8Qkp.png width=900>
+<img src=http://i.imgur.com/KvD1lv6.png width=900>
 
-## "Grupo de personas conectadas entre sí, conectadas a un líder, y conectadas a una idea". {.flexbox .vcenter}
+## Personas conectadas a un líder, idea, y entre sí {.flexbox .vcenter}
 
 <img src=tribus.jpg width=900>
 
-## {.flexbox .vcenter}
+## ~~Comunidad~~ Tribu de R {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/KvD1lv6.png width=900>
+
+## La mujer maravilla {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/AO183cK.png width=900>
+
 
 ## La mujer maravilla {.flexbox .vcenter}
 
@@ -94,5 +103,6 @@ end.
 
 ## References
 
+* [Most success stories are gratitude stories](https://twitter.com/mauro_lepore/status/1327234852458958848?s=20)
 * [Anela Li](https://maurolepore.github.io/confs/articles/2019_chirunconf_experience.html)
 * [Tribes](https://www.amazon.com/-/es/Seth-Godin/dp/1591842336/ref=sr_1_1?adgrpid=64894137577&dchild=1&gclid=CjwKCAiAi_D_BRApEiwASslbJyrdpcp8NAc7R6VpLTF4dwbk2FpNf3AerbTjsptSakKWq9wlaAp1XBoCAaYQAvD_BwE&hvadid=374819649836&hvdev=c&hvlocphy=9073467&hvnetw=g&hvqmt=e&hvrand=16694802638412131091&hvtargid=kwd-300465574309&hydadcr=26030_11242087&keywords=tribes+seth+godin&qid=1610411319&sr=8-1&tag=gspstddesk-20)
