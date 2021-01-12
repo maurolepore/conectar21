@@ -48,10 +48,6 @@ slides <- function() {
 
 <img src=http://i.imgur.com/j1D8Qkp.png width=900>
 
-## La palabra clave {.flexbox .vcenter}
-
-<img src=http://i.imgur.com/H8Fazrx.png width=900>
-
 ## Por qué aprender sobre comunidades? {.flexbox .vcenter}
 
 <img src=question.jpg width=900>
@@ -85,12 +81,25 @@ slides <- function() {
 
 <img src=http://i.imgur.com/8iWsBnO.png width=900>
 
-## Necesitamos que nos ~~manejes~~ lideres {.flexbox .vcenter}
+## Líderes de "micro" comunidades en mi trabajo {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/0GfdbQY.png width=900>
 
-* Liderar NO sobre manejar eficientemente lo que no te importa.
-* Liderar SI es crear los cambios en los que crees.
+## Que logramos cambiar? | Helpdesk: Soporte en vivo con cita
+
+ {.flexbox .vcenter}
+
+
+
+#### TODO 
+
+<img src=FIXME width=900>
+
+## Ejemplo: Cómo lo hicimos? {.flexbox .vcenter}
+
+* Mostrando pasión por los proyectos que creamos.
+* Conectando nuestras ideas y gente mediante plataformas de comunicación.
+* Apartatándones para favorecer la comunicación entre miembros.
 
 ## Poder y riesgo | Por qué hacemos gratis lo que no hariamos por dinero?  {.flexbox .vcenter}
 
@@ -100,9 +109,13 @@ slides <- function() {
 
 <img src=http://i.imgur.com/p3mbOdD.png width=900>
 
-## Necesitamos que nos lideres | Gracias! {.flexbox .vcenter}
+## Grupo de personas conectadas a un líder, conectadas a una idea, y conectadas entre sí. {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/j1D8Qkp.png width=900>
+
+## La palabra clave | Gracias! {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/H8Fazrx.png width=900>
 
 Twitter: @mauro_lepore
 
