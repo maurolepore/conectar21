@@ -77,6 +77,7 @@ slides <- function() {
 * Tu rol puede ser invisible a tus ojos.
 * Están por todos lados, son útiles y divertidas.
 * Pueden lograr cambios milagrosos.
+* Su poder tiene riesgos.
 
 <img src=http://i.imgur.com/ZNWxD0D.png width=900>
 
@@ -91,13 +92,13 @@ slides <- function() {
 * Liderar NO sobre manejar eficientemente lo que no te importa.
 * Liderar SI es crear los cambios en los que crees.
 
-## Poder y riesgo | La matriz de manipulación  {.flexbox .vcenter}
-
-<img src=http://i.imgur.com/p3mbOdD.png width=900>
-
 ## Poder y riesgo | Por qué hacemos gratis lo que no hariamos por dinero?  {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/lAztL91.png width=900>
+
+## Poder y riesgo | La matriz de manipulación  {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/p3mbOdD.png width=900>
 
 ## Necesitamos que nos lideres | Gracias! {.flexbox .vcenter}
 
