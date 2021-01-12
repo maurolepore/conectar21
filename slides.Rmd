@@ -1,8 +1,42 @@
 ---
 title: Cadena de favores
-author: Mauro Lepore
-output: github_document
+subtitle: next
+output:
+  ioslides_presentation:
+    smaller: yes
+    widescreen: yes
+  beamer_presentation: default
 ---
+
+<style type="text/css">
+slides > slide:not(.nobackground):after {
+  content: '';
+}
+</style>
+
+```{r removeSlideNumbers, include=FALSE}
+# From https://github.com/rstudio/rmarkdown/issues/244
+# To remove slide numbers to one of two things:
+
+# One: Place this under the yamal header of the .Rmd file
+# <style type="text/css">
+# slides > slide:not(.nobackground):after {
+#   content: '';
+# }
+# </style>
+
+# Or, two: Place this in a separate mystyle.css file (remove <style> tag)
+# slides > slide:not(.nobackground):after {
+#   content: '';
+# }
+# For approach two, the yamal header should look like this:
+# ---
+# output:
+#   ioslides_presentation:
+    # css: mystyles.css
+# ---
+```
+
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
@@ -17,13 +51,13 @@ slides <- function() {
 }
 ```
 
-# Intro
+## Cadena de favores | @mauro_lepore
+
+<img src=http://i.imgur.com/w8ozKG2.png width=775>
 
 ## Cual es tu rol en la comunidad de R? {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/MCPSbHW.png width=775>
-
-***
+## La mujer maravilla
 
 <img src=http://i.imgur.com/MCPSbHW.png width=775>
 
@@ -48,4 +82,7 @@ slides <- function() {
 
 # FIXME
 
+```
 <img src=FIXME width=700>
+```
+

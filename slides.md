@@ -1,21 +1,18 @@
-Cadena de favores
-================
-Mauro Lepore
 
-# Intro
+# Cadena de favores \| Mauro Lepore
+
+Mauro Lepore
 
 ## Cual es tu rol en la comunidad de R?
 
-<img src=http://i.imgur.com/MCPSbHW.png width=775>
-
-------------------------------------------------------------------------
+## La mujer maravilla
 
 <img src=http://i.imgur.com/MCPSbHW.png width=775>
 
 [chirunconf
 2019](https://maurolepore.github.io/confs/articles/2019_chirunconf_experience.html)
 
-## Contenido {flexbox .vcenter}
+## Contenido
 
 -   Cadena de favores
 -   Tribus
@@ -34,4 +31,4 @@ Mauro Lepore
 
 # FIXME
 
-<img src=FIXME width=700>
+    <img src=FIXME width=700>
