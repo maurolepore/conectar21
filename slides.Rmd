@@ -1,11 +1,10 @@
 ---
-title: Cadena de favores
+title: .
 subtitle: next
 output:
   ioslides_presentation:
-    smaller: yes
+    smaller: no
     widescreen: yes
-  beamer_presentation: default
 ---
 
 <style type="text/css">
@@ -31,30 +30,40 @@ slides <- function() {
 
 ## Cadena de favores | @mauro_lepore {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/w8ozKG2.png width=775>
+<img src=http://i.imgur.com/KvD1lv6.png width=775>
+
+## ~~Cadena de favores~~ Tribus | @mauro_lepore {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/j1D8Qkp.png width=775>
 
 ## Cual es tu rol en la comunidad de R? {.flexbox .vcenter}
 
---
-
 <img src=http://i.imgur.com/MCPSbHW.png width=775>
 
-## Contenido
 
-* Cadena de favores
-* Tribus
-* Organizations internacionales
-* Latino America
+# Como podes lograr cambios en tu trabajo?
 
-## {.flexbox .vcenter}
+# Por que trabajas gratis en algo que no harías por dinero?
 
-<img src=http://i.imgur.com/sh88LtM.png width=775>
-
-## A tribe is a group of people connected to one another, connected to a leader and connected to an idea -- Seth Godin {.flexbox .vcenter}
+## "Una tribu es un grupo de personas conectadas entre sí, conectadas a un líder, y conectadas a una idea". {.flexbox .vcenter}
 
 <img src=tribus.jpg width=775>
 
-# Organizaciones internacionales
+## Tribus {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/j1D8Qkp.png width=775>
+
+## Mis tribus {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/QIx5Lys.png width=775>
+
+## La tribu interna {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/iWKNz91.png width=775>
+
+## Como podes lograr cambios en tu trabajo?
+
+## Por que trabajas gratis en algo que no harías por dinero?
 
 # Latino America
 
@@ -65,7 +74,8 @@ slides <- function() {
 # FIXME
 
 ```
-<img src=FIXME width=700>
+<img src=tribus.jpg width=775>
+
 ```
 
 ## References
