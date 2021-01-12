@@ -101,9 +101,7 @@ slides <- function() {
 
 <img src=http://i.imgur.com/lAztL91.png width=900>
 
-## Poder y riesgo | La matriz de manipulación  {.flexbox .vcenter}
-
-<img src=http://i.imgur.com/p3mbOdD.png width=900>
+# Repaso
 
 ## Grupo de personas conectadas a un líder, conectadas a una idea, y conectadas entre sí. {.flexbox .vcenter}
 
