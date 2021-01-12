@@ -14,31 +14,9 @@ slides > slide:not(.nobackground):after {
 }
 </style>
 
-```{r removeSlideNumbers, include=FALSE}
-# From https://github.com/rstudio/rmarkdown/issues/244
-# To remove slide numbers to one of two things:
-
-# One: Place this under the yamal header of the .Rmd file
-# <style type="text/css">
-# slides > slide:not(.nobackground):after {
-#   content: '';
-# }
-# </style>
-
-# Or, two: Place this in a separate mystyle.css file (remove <style> tag)
-# slides > slide:not(.nobackground):after {
-#   content: '';
-# }
-# For approach two, the yamal header should look like this:
-# ---
-# output:
-#   ioslides_presentation:
-    # css: mystyles.css
-# ---
-```
-
-
 ```{r, include = FALSE}
+# Remove slide numbers https://github.com/rstudio/rmarkdown/issues/244
+
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
@@ -51,17 +29,15 @@ slides <- function() {
 }
 ```
 
-## Cadena de favores | @mauro_lepore
+## Cadena de favores | @mauro_lepore {.flexbox .vcenter}
 
 <img src=http://i.imgur.com/w8ozKG2.png width=775>
 
 ## Cual es tu rol en la comunidad de R? {.flexbox .vcenter}
 
-## La mujer maravilla
+--
 
 <img src=http://i.imgur.com/MCPSbHW.png width=775>
-
-[chirunconf 2019](https://maurolepore.github.io/confs/articles/2019_chirunconf_experience.html)
 
 ## Contenido
 
@@ -70,7 +46,13 @@ slides <- function() {
 * Organizations internacionales
 * Latino America
 
-# Tribu
+## {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/sh88LtM.png width=775>
+
+## A tribe is a group of people connected to one another, connected to a leader and connected to an idea -- Seth Godin {.flexbox .vcenter}
+
+<img src=tribus.jpg width=775>
 
 # Organizaciones internacionales
 
@@ -86,3 +68,7 @@ slides <- function() {
 <img src=FIXME width=700>
 ```
 
+## References
+
+* [Anela Li](https://maurolepore.github.io/confs/articles/2019_chirunconf_experience.html)
+* [Tribes](https://www.amazon.com/-/es/Seth-Godin/dp/1591842336/ref=sr_1_1?adgrpid=64894137577&dchild=1&gclid=CjwKCAiAi_D_BRApEiwASslbJyrdpcp8NAc7R6VpLTF4dwbk2FpNf3AerbTjsptSakKWq9wlaAp1XBoCAaYQAvD_BwE&hvadid=374819649836&hvdev=c&hvlocphy=9073467&hvnetw=g&hvqmt=e&hvrand=16694802638412131091&hvtargid=kwd-300465574309&hydadcr=26030_11242087&keywords=tribes+seth+godin&qid=1610411319&sr=8-1&tag=gspstddesk-20)
