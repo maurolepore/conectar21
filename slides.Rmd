@@ -81,25 +81,21 @@ slides <- function() {
 
 <img src=http://i.imgur.com/8iWsBnO.png width=900>
 
-## Líderes de "micro" comunidades en mi trabajo {.flexbox .vcenter}
+## Algunos líderes de "micro" comunidades en 2DII {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/0GfdbQY.png width=900>
+<img src=http://i.imgur.com/JY05dYR.png width=900>
 
-## Que logramos cambiar? | Helpdesk: Soporte en vivo con cita
+## Que logramos cambiar y cómo lo hicimos? {.flexbox .vcenter}
 
- {.flexbox .vcenter}
+<img src=http://i.imgur.com/dyBEOKq.png width=900>
 
-
-
-#### TODO 
-
-<img src=FIXME width=900>
-
-## Ejemplo: Cómo lo hicimos? {.flexbox .vcenter}
+## Historia de éxito y gratitud
 
 * Mostrando pasión por los proyectos que creamos.
-* Conectando nuestras ideas y gente mediante plataformas de comunicación.
-* Apartatándones para favorecer la comunicación entre miembros.
+* Creando sistemas para conectar nuestras ideas y gente.
+* Apartatándonos para favorecer la comunicación entre miembros.
+
+<img src=http://i.imgur.com/e8O4vou.png width=800>
 
 ## Poder y riesgo | Por qué hacemos gratis lo que no hariamos por dinero?  {.flexbox .vcenter}
 
