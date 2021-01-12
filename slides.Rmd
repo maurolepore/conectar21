@@ -30,36 +30,59 @@ slides <- function() {
 
 ## Cadena de favores | @mauro_lepore {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/KvD1lv6.png width=775>
+<img src=http://i.imgur.com/KvD1lv6.png width=900>
 
-## ~~Cadena de favores~~ Tribus | @mauro_lepore {.flexbox .vcenter}
+## Comunidad de R ~ Tribu {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/j1D8Qkp.png width=775>
+<img src=http://i.imgur.com/j1D8Qkp.png width=900>
 
-## Cual es tu rol en la comunidad de R? {.flexbox .vcenter}
+## "Grupo de personas conectadas entre sí, conectadas a un líder, y conectadas a una idea". {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/MCPSbHW.png width=775>
+<img src=tribus.jpg width=900>
 
+## {.flexbox .vcenter}
 
-# Como podes lograr cambios en tu trabajo?
+<img src=http://i.imgur.com/AO183cK.png width=900>
 
-# Por que trabajas gratis en algo que no harías por dinero?
+## La mujer maravilla {.flexbox .vcenter}
 
-## "Una tribu es un grupo de personas conectadas entre sí, conectadas a un líder, y conectadas a una idea". {.flexbox .vcenter}
+<img src=http://i.imgur.com/MCPSbHW.png width=900>
 
-<img src=tribus.jpg width=775>
+## Sabes cuál es tu rol en tu tribu de R? {.flexbox .vcenter}
 
-## Tribus {.flexbox .vcenter}
+<img src=http://i.imgur.com/2KkSy71.png width=900>
 
-<img src=http://i.imgur.com/j1D8Qkp.png width=775>
+## Sabes cuál es tu rol en tu tribu de R? {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/ZzNc1f1.png width=900>
+
+## Sabes cuál es tu rol en tu tribu de R? {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/WtZ97pr.png width=900>
+
+## Cuál es tu tribu y tu rol? {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/Hxtpx7P.png width=900>
+
+## Cómo podés mejorar tu trabajo? {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/Hxtpx7P.png width=900>
+
+## Por qué haces gratis lo que no harías por dinero? {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/Hxtpx7P.png width=900>
+
+## Mis tribus y mi rol {.flexbox .vcenter}
+
+<img src=http://i.imgur.com/gdXpJei.png width=900>
 
 ## Mis tribus {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/QIx5Lys.png width=775>
+<img src=http://i.imgur.com/QIx5Lys.png width=900>
 
 ## La tribu interna {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/iWKNz91.png width=775>
+<img src=http://i.imgur.com/iWKNz91.png width=900>
 
 ## Como podes lograr cambios en tu trabajo?
 
@@ -74,7 +97,7 @@ slides <- function() {
 # FIXME
 
 ```
-<img src=tribus.jpg width=775>
+<img src=tribus.jpg width=900>
 
 ```
 
