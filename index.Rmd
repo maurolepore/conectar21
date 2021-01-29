@@ -42,7 +42,7 @@ slides <- function() {
 
 ## Grupo de personas conectadas a un líder, conectadas a una idea, y conectadas entre sí. {.flexbox .vcenter}
 
-<img src=http://i.imgur.com/L26bjS7.png width=900>
+<img src=http://i.imgur.com/UmFZIX6.png width=900>
 
 ## Tribu ~ Comunidad de R {.flexbox .vcenter}
 
