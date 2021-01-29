@@ -42,7 +42,7 @@ slides <- function() {
 
 ## Grupo de personas conectadas a un líder, conectadas a una idea, y conectadas entre sí. {.flexbox .vcenter}
 
-<img src=tribus.jpg width=900>
+<img src=http://i.imgur.com/L26bjS7.png width=900>
 
 ## Tribu ~ Comunidad de R {.flexbox .vcenter}
 
@@ -50,7 +50,7 @@ slides <- function() {
 
 ## Por qué aprender sobre comunidades? {.flexbox .vcenter}
 
-<img src=question.jpg width=900>
+<img src=http://i.imgur.com/pIOR7SA.png width=900>
 
 ## Chicago R Unconference y la mujer maravilla | Marzo 2019 {.flexbox .vcenter}
 
